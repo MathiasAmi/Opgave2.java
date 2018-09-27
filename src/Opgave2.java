@@ -236,6 +236,9 @@ public class Opgave2 {
         double pPG = sc.nextDouble();
         double cost = (dDistance/mPG) * pPG;
         System.out.println("The cost of driving is " + cost);
+        
+    }
+}
 
 
 
